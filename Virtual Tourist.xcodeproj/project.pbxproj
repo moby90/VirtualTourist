@@ -73,6 +73,7 @@
 		F83AEF1A1D338261006DA254 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F83AEF0C1D3381FE006DA254 /* Virtual_Tourist.xcdatamodeld */,
 				F83AEF091D3381FE006DA254 /* Main.storyboard */,
 				F83AEF111D3381FE006DA254 /* LaunchScreen.storyboard */,
 				F83AEF051D3381FE006DA254 /* AppDelegate.swift */,
@@ -85,7 +86,6 @@
 		F83AEF1B1D338275006DA254 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				F83AEF0C1D3381FE006DA254 /* Virtual_Tourist.xcdatamodeld */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -330,6 +330,7 @@
 				F83AEF191D3381FE006DA254 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
